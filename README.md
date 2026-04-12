@@ -1,16 +1,26 @@
-## Hi there 👋
+## Opa, bão? 👋
 
-<!--
-**moacirsouza/moacirsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Moka[^1] (escrito com 'k'[^2] e pronunciado com 'o' aberto: "Móka")!
 
-Here are some ideas to get you started:
+[^1]: Meu nome, Moacir, vem do Tupi Guarani e pode significar "Filho do 
+sofrimento" ou "Aquele que faz sofrer". Descobri isso quando tinha uns sete ou 
+oito anos, lendo o saudoso "Manual dos Escoteiros Mirins". O impacto foi 
+tamanho que o significado ficou comigo até hoje :smirk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[^2]: Esse é um apelido antigo, derivado do meu nome e usado pelos meus irmãos 
+mais novos para me infernizar :smile: Com o passar do tempo, o que quer que me 
+deixava aborrecido passou e eu passei a adotá-lo. Apesar do nome ser grafado 
+com 'c', o apelido é com 'k' por conta de um episódio da minha adolescência, 
+enquanto eu usava uma sala de bate-papo no IRC (_Internet Relay Channel_): Como 
+o meu _nick_ original era muito comprido, me perguntaram qual era o meu nome. 
+Respondi "Pode me chamar de Moca" e a pessoa imediatamente perguntou "Moça?!?". 
+Portanto, para evitar novas confusões, passei a adotar "Moka".
+
+Na verdade, eu não uso mais o GitHub como o meu repositório remoto principal.
+A partir de Abril de 2026, adotei o 
+[Codeberg](https://codeberg.org/moacirsouza), uma alternativa _Open Source_, 
+mais alinhada com minha história dentro da área da computação.
+
+Fique à vontade parar aparecer por lá e, quem sabe, até criar uma conta. É 
+grátis ;)
+
