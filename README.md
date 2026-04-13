@@ -16,11 +16,13 @@ adolescência: Enquanto eu usava uma sala de bate-papo no IRC, perguntaram qual
 era o meu nome e eu respondi "Pode me chamar de Moca". A pessoa imediatamente 
 perguntou "Moça?!?" e para evitar novas confusões, passei a adotar "Moka"
 
-Na verdade, eu não uso mais o GitHub como o meu repositório remoto principal.
-A partir de Abril de 2026, adotei o 
-[Codeberg](https://codeberg.org/moacirsouza), uma alternativa _Open Source_, 
-mais alinhada com minha história dentro da área da computação.
+Criei esta conta com a mesma intenção da maioria das pessoas, _i.e._, falar um 
+pouco de mim e, claro, hospedar os meus projetos, mas a verdade é que eu não 
+uso mais o GitHub como o meu repositório remoto principal.
 
-Fique à vontade parar aparecer por lá e, quem sabe, até criar uma conta. É 
-grátis &#128526;
+A partir de abril de 2026, adotei o Codeberg, uma alternativa _open source_ 
+mais alinhada com minha trajetória na área da computação.
+
+Fique à vontade parar aparecer por [lá](https://codeberg.org/moacirsouza) e, 
+quem sabe, até criar uma conta. É grátis &#128526;
 
